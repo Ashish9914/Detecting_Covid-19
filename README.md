@@ -1,5 +1,5 @@
-# tflite_example
+Flutter Mobile application for detecting covid 19 given the chest x ray of the person.
 
-An example TFLite and FLutter app for this tutorial- 
+
 
 
